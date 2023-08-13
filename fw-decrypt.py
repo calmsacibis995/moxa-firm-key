@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 #
-#
+# Originally written by stacksmashing (Thomas Roth)
 #
 
 # The obfuscated Moxa decryption key
